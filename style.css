@@ -255,7 +255,8 @@ section {
     width: 100%;
     object-fit: cover;
     border: 1rem solid #fff;
-    border-radius: 0.5rem;
+    /* border-radius: 0.5rem; */
+    border-radius: 58% 42% 64% 36% / 40% 80% 20% 60%; 
     box-shadow: 0 1.5rem 1rem rgba(0, 0, 0, 0.1);
     animation-name: left-right;
     animation-duration: 0.9s;
@@ -355,7 +356,7 @@ section {
     flex: 1 1 20rem;
     background: #fff;
     padding: 2rem;
-    border-radius: 0 50% 50% 0;
+    border-radius: 34% 66% 31% 69% / 68% 39% 61% 32%; 
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
 }
@@ -392,7 +393,7 @@ section {
     padding: 2rem;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
     background: #fff;
-    border-radius: 0.5rem;
+    border-radius: 24% 76% 16% 84% / 78% 25% 75% 22%; 
 }
 
 .service .box-container .box i {
@@ -656,7 +657,7 @@ section {
     padding: 2rem;
     background: #fff;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
-    border-radius: 50% 10% 50% 10%;
+    border-radius: 63% 37% 75% 25% / 50% 61% 39% 50%; 
     transition: all 0.3s ease-in-out;
 }
 
